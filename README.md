@@ -1,0 +1,2 @@
+# dbt_self_learning
+dbt_self_learning assignments
